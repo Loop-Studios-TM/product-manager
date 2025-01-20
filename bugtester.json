@@ -8,6 +8,10 @@
       "product": "CRPOSLite",
       "joinAccess": true
     },
+    "971447351": {
+      "product": "CRPOSLite",
+      "joinAccess": false
+    },
     "1348033154": {
       "product": "CRPOSLite",
       "joinAccess": true
@@ -15,6 +19,14 @@
     "1507522692": {
       "product": "CRPOSLite",
       "joinAccess": true
+    },
+    "2318394198": {
+      "product": "CRPOSLite",
+      "joinAccess": false
+    },
+    "3198371692": {
+      "product": "CRPOSLite",
+      "joinAccess": false
     }
   }
 }
