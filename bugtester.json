@@ -3,6 +3,10 @@
     "1263861104": {
       "product": "ProductName",
       "joinAccess": false
+    },
+    "1348033154": {
+      "product": "CRPOSLite",
+      "joinAccess": true
     }
   }
 }
