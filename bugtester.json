@@ -1,0 +1,8 @@
+{
+  "bugtesters": {
+    "1263861104": {
+      "product": "ProductName",
+      "joinAccess": false
+    }
+  }
+}
