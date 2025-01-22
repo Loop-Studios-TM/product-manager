@@ -1,14 +1,14 @@
 {
   "logs": [
     {
-      "action": "UPDATE_CODE_SUCCESS",
-      "file": "CRPOSLite.lua",
+      "action": "CREATE_FILE",
+      "file": "Test.lua",
       "user": {
         "id": "1004421089398632468",
         "username": "wilkcswe",
         "discriminator": "0"
       },
-      "timestamp": "2025-01-22T17:35:33.709Z"
+      "timestamp": "2025-01-22T20:27:59.267Z"
     }
   ]
 }
