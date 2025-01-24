@@ -1,5 +1,9 @@
 {
   "bugtesters": {
+    "342377221": {
+      "product": "CRPOSLite",
+      "joinAccess": true
+    },
     "561636544": {
       "product": "CRPOSLite",
       "joinAccess": false
