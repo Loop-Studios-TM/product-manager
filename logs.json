@@ -1,14 +1,14 @@
 {
   "logs": [
     {
-      "action": "CREATE_FILE",
+      "action": "UPDATE_CODE_SUCCESS",
       "file": "LoopEchoCLoader.lua",
       "user": {
         "id": "1004421089398632468",
         "username": "wilkcswe",
         "discriminator": "0"
       },
-      "timestamp": "2025-01-27T18:03:30.199Z"
+      "timestamp": "2025-01-27T18:03:55.000Z"
     }
   ]
 }
