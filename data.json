@@ -1,5 +1,5 @@
 {
-  "global_lock": true,
+  "global_lock": false,
   "global_product_lock_reason": "[GLOBAL LOCK] We are currently experiencing technical difficulties.",
   "global_product_lock_adminstrator": "WilkcSwe",
   "data": {
