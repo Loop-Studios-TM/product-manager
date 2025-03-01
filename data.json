@@ -1,0 +1,20 @@
+{
+  "global_lock": true,
+  "data": {
+    "Products": [
+      {
+        "id": 1,
+        "name": "Comet Retail POS Lite",
+        "current_version": "1"
+      }
+    ],
+    "Users": [
+      {
+        "userid": 1,
+        "product_lock": false,
+        "products_owned": [1],
+        "can_access_dash": true
+      }
+    ]
+  }
+}
