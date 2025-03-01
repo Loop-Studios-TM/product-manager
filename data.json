@@ -1,5 +1,5 @@
 {
-  "global_lock": false,
+  "global_lock": true,
   "global_product_lock_reason": "Whitelist is currently down. Please be patient",
   "global_product_lock_adminstrator": "WilkcSwe",
   "data": {
