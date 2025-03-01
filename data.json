@@ -1,7 +1,7 @@
 {
-  "global_lock": true,
-  "global_product_lock_reason": "Test",
-  "global_product_lock_adminstrator": "John Doe",
+  "global_lock": false,
+  "global_product_lock_reason": "Whitelist is currently down. Please be patient",
+  "global_product_lock_adminstrator": "WilkcSwe",
   "data": {
     "Products": [
       {
